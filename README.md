@@ -2,4 +2,4 @@
 
 My favorite repositories
 
-- (JSON Server)[https://github.com/typicode/json-server]
+- [JSON Server](https://github.com/typicode/json-server)
