@@ -9,4 +9,5 @@ My favorite repositories
 - [NW.js](https://github.com/nwjs/nw.js)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [React](https://github.com/facebook/react)
+- [React Native](https://github.com/facebook/react-native)
 - [The Fuck](https://github.com/nvbn/thefuck)
