@@ -4,6 +4,7 @@ My favorite repositories
 
 - [Atom](https://github.com/atom/atom)
 - [Electron](https://github.com/atom/electron)
+- [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [JSON Server](https://github.com/typicode/json-server)
 - [NW.js](https://github.com/nwjs/nw.js)
