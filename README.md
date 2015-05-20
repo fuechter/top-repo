@@ -2,6 +2,7 @@
 
 My favorite repositories
 
+- [Atom](https://github.com/atom/atom)
 - [Electron](https://github.com/atom/electron)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [JSON Server](https://github.com/typicode/json-server)
