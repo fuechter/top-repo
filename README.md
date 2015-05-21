@@ -11,4 +11,5 @@ My favorite repositories
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
+- [Reflux](https://github.com/spoike/refluxjs)
 - [The Fuck](https://github.com/nvbn/thefuck)
