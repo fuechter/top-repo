@@ -3,6 +3,7 @@
 My favorite repositories
 
 - [Atom](https://github.com/atom/atom)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
