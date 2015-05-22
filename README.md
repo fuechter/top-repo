@@ -17,3 +17,4 @@ My favorite repositories
 - [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
 - [The Fuck](https://github.com/nvbn/thefuck)
+- [Zombie](https://github.com/assaf/zombie)
