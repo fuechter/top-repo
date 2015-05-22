@@ -11,6 +11,7 @@ My favorite repositories
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
+- [Mocha](https://github.com/mochajs/mocha)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [React](https://github.com/facebook/react)
