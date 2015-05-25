@@ -9,6 +9,7 @@ My favorite repositories
 - [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
