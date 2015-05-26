@@ -20,6 +20,7 @@ My favorite repositories
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
+- [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - [The Fuck](https://github.com/nvbn/thefuck)
 - [Webpack](https://github.com/webpack/webpack)
 - [Zombie](https://github.com/assaf/zombie)
