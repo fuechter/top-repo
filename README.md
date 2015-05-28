@@ -24,5 +24,6 @@ My favorite repositories
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - [The Fuck](https://github.com/nvbn/thefuck)
+- [Vibrant.JS](https://github.com/jariz/vibrant.js)
 - [Webpack](https://github.com/webpack/webpack)
 - [Zombie](https://github.com/assaf/zombie)
