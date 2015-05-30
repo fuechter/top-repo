@@ -23,6 +23,7 @@ My favorite repositories
 - [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
+- [Terraform](https://github.com/hashicorp/terraform)
 - [The Fuck](https://github.com/nvbn/thefuck)
 - [Vibrant.JS](https://github.com/jariz/vibrant.js)
 - [Webpack](https://github.com/webpack/webpack)
