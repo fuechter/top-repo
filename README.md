@@ -15,6 +15,7 @@ My favorite repositories
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Babel](https://github.com/babel/babel)
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
