@@ -25,6 +25,7 @@ My favorite repositories
 - [Mocha](https://github.com/mochajs/mocha)
 - [Minimist](https://github.com/substack/minimist)
 - [NW.js](https://github.com/nwjs/nw.js)
+- [Packer](https://github.com/mitchellh/packer)
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
