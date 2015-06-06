@@ -11,6 +11,7 @@ My favorite repositories
 
 ## DevOps
 
+- [Consul](https://github.com/hashicorp/consul)
 - [Packer](https://github.com/mitchellh/packer)
 - [Terraform](https://github.com/hashicorp/terraform)
 - [Vagrant](https://github.com/mitchellh/vagrant)
