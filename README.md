@@ -14,6 +14,7 @@ My favorite repositories
 - [Atom](https://github.com/atom/atom)
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome Android](https://github.com/snowdream/awesome-android)
 - [Babel](https://github.com/babel/babel)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [Electron](https://github.com/atom/electron)
