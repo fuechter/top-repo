@@ -38,6 +38,7 @@ My favorite repositories
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [JSON Server](https://github.com/typicode/json-server)
+- [Knwl.js](https://github.com/loadfive/Knwl.js)
 - [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
 - [Minimist](https://github.com/substack/minimist)
