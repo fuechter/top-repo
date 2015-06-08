@@ -18,9 +18,11 @@ My favorite repositories
 
 ## References
 
+- [Android Top 1000](https://github.com/iamdaiyuan/android_top_1000)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Android](https://github.com/snowdream/awesome-android)
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 
 ## Test
 
