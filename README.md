@@ -41,6 +41,7 @@ My favorite repositories
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+- [Infer](https://github.com/facebook/infer)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
 - [Koa](https://github.com/koajs/koa)
