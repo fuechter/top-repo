@@ -28,6 +28,7 @@ My favorite repositories
 ## Test
 
 - [Mocha](https://github.com/mochajs/mocha)
+- [Recorder](https://github.com/theintern/recorder)
 - [Zombie](https://github.com/assaf/zombie)
 
 ## Others
