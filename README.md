@@ -22,6 +22,7 @@ My favorite repositories
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Android](https://github.com/snowdream/awesome-android)
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
 
