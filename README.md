@@ -38,6 +38,7 @@ My favorite repositories
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Babel](https://github.com/babel/babel)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+- [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
