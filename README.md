@@ -41,6 +41,7 @@ My favorite repositories
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
+- [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Infer](https://github.com/facebook/infer)
