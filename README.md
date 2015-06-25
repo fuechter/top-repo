@@ -6,6 +6,7 @@ My favorite repositories
 
 - [Autojump](https://github.com/joelthelion/autojump)
 - [CCAT](https://github.com/jingweno/ccat)
+- [Hostile](https://github.com/feross/hostile)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [The Fuck](https://github.com/nvbn/thefuck)
 
