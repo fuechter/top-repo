@@ -51,6 +51,7 @@ My favorite repositories
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
 - [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
+- [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Minimist](https://github.com/substack/minimist)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
