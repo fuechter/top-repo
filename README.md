@@ -58,6 +58,7 @@ My favorite repositories
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
+- [ShellJS](https://github.com/arturadib/shelljs)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - [Trianglify](https://github.com/qrohlf/trianglify)
 - [Vibrant.JS](https://github.com/jariz/vibrant.js)
