@@ -10,12 +10,25 @@ My favorite repositories
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [The Fuck](https://github.com/nvbn/thefuck)
 
+## Desktop
+
+- [Electron](https://github.com/atom/electron)
+- [NW.js](https://github.com/nwjs/nw.js)
+
 ## DevOps
 
 - [Consul](https://github.com/hashicorp/consul)
 - [Packer](https://github.com/mitchellh/packer)
 - [Terraform](https://github.com/hashicorp/terraform)
 - [Vagrant](https://github.com/mitchellh/vagrant)
+
+## Mobiles
+
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+
+## Prototypes
+
+- [JSON Server](https://github.com/typicode/json-server)
 
 ## References
 
@@ -33,27 +46,26 @@ My favorite repositories
 - [Recorder](https://github.com/theintern/recorder)
 - [Zombie](https://github.com/assaf/zombie)
 
-## Others
+## Tools
 
 - [Atom](https://github.com/atom/atom)
+
+## Others
+
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Babel](https://github.com/babel/babel)
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
-- [Electron](https://github.com/atom/electron)
 - [Express](https://github.com/strongloop/express)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Infer](https://github.com/facebook/infer)
 - [Johnny Five](https://github.com/rwaldron/johnny-five)
-- [JSON Server](https://github.com/typicode/json-server)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
 - [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Minimist](https://github.com/substack/minimist)
-- [NW.js](https://github.com/nwjs/nw.js)
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
 - [User Flows](https://github.com/abynim/UserFlows)
 - [React](https://github.com/facebook/react)
