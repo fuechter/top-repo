@@ -33,9 +33,10 @@ My favorite repositories
 ## References
 
 - [Android Top 1000](https://github.com/iamdaiyuan/android_top_1000)
-- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome D3](https://github.com/wbkd/awesome-d3)
 - [Awesome Android](https://github.com/snowdream/awesome-android)
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
