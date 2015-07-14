@@ -69,6 +69,7 @@ My favorite repositories
 - [Lodash](https://github.com/lodash/lodash)
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Minimist](https://github.com/substack/minimist)
+- [Mirror](https://github.com/kostiakoval/Mirror)
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
 - [User Flows](https://github.com/abynim/UserFlows)
 - [React](https://github.com/facebook/react)
