@@ -63,6 +63,7 @@ My favorite repositories
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Infer](https://github.com/facebook/infer)
+- [JAWS](https://github.com/servant-app/JAWS)
 - [Johnny Five](https://github.com/rwaldron/johnny-five)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
 - [Koa](https://github.com/koajs/koa)
