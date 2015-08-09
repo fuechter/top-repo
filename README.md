@@ -79,6 +79,7 @@ My favorite repositories
 - [Rove](https://github.com/aderyabin/rove)
 - [ShellJS](https://github.com/arturadib/shelljs)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
+- [ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed)
 - [Trianglify](https://github.com/qrohlf/trianglify)
 - [Vantage](https://github.com/dthree/vantage)
 - [Vibrant.JS](https://github.com/jariz/vibrant.js)
