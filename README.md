@@ -22,9 +22,18 @@ My favorite repositories
 - [Terraform](https://github.com/hashicorp/terraform)
 - [Vagrant](https://github.com/mitchellh/vagrant)
 
-## Mobiles
+## Frameworks (Node/IO)
+- [Express](https://github.com/strongloop/express)
+- [Koa](https://github.com/koajs/koa)
+
+## Mobile (Android)
+
+- [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
+
+## Mobile (iOS)
 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
+- [React Native](https://github.com/facebook/react-native)
 
 ## Prototypes
 
@@ -50,16 +59,14 @@ My favorite repositories
 ## Tools
 
 - [Atom](https://github.com/atom/atom)
+- [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 
 ## Others
 
-- [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Babel](https://github.com/babel/babel)
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
-- [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
-- [Express](https://github.com/strongloop/express)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
@@ -67,7 +74,6 @@ My favorite repositories
 - [JAWS](https://github.com/servant-app/JAWS)
 - [Johnny Five](https://github.com/rwaldron/johnny-five)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
-- [Koa](https://github.com/koajs/koa)
 - [Lodash](https://github.com/lodash/lodash)
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Minimist](https://github.com/substack/minimist)
@@ -75,7 +81,6 @@ My favorite repositories
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
 - [User Flows](https://github.com/abynim/UserFlows)
 - [React](https://github.com/facebook/react)
-- [React Native](https://github.com/facebook/react-native)
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Rove](https://github.com/aderyabin/rove)
 - [ShellJS](https://github.com/arturadib/shelljs)
