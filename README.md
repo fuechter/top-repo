@@ -55,6 +55,7 @@ My favorite repositories
 
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Babel](https://github.com/babel/babel)
+- [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
 - [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
