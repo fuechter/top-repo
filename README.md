@@ -88,6 +88,7 @@ My favorite repositories
 - [ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed)
 - [Trianglify](https://github.com/qrohlf/trianglify)
 - [Vantage](https://github.com/dthree/vantage)
+- [Verb](https://github.com/verbose/verb)
 - [Vibrant.JS](https://github.com/jariz/vibrant.js)
 - [Webpack](https://github.com/webpack/webpack)
 
