@@ -26,6 +26,9 @@ My favorite repositories
 - [Express](https://github.com/strongloop/express)
 - [Koa](https://github.com/koajs/koa)
 
+## Frameworks (PHP)
+- [Slim](https://github.com/slimphp/Slim)
+
 ## Mobile (Android)
 
 - [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
