@@ -70,6 +70,7 @@ My favorite repositories
 - [Babel](https://github.com/babel/babel)
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
+- [CodeMirror](https://github.com/codemirror/codemirror)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Gulp](https://github.com/gulpjs/gulp)
