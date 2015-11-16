@@ -32,6 +32,7 @@ My favorite repositories
 ## Mobile (Android)
 
 - [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
+- [Android Tool Mac](https://github.com/mortenjust/androidtool-mac)
 
 ## Mobile (iOS)
 
