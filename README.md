@@ -51,6 +51,7 @@ My favorite repositories
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch)
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
