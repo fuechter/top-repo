@@ -55,6 +55,7 @@ My favorite repositories
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
 
 ## Test
 
