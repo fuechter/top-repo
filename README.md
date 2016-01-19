@@ -54,6 +54,7 @@ My favorite repositories
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
+- [JS Tips](https://github.com/loverajoel/jstips)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 
