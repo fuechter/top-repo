@@ -68,6 +68,7 @@ My favorite repositories
 
 - [Atom](https://github.com/atom/atom)
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
+- [Loupe](http://latentflip.com/loupe/)
 
 ## Others
 
