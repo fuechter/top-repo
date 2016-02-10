@@ -85,6 +85,7 @@ My favorite repositories
 - [JAWS](https://github.com/servant-app/JAWS)
 - [Johnny Five](https://github.com/rwaldron/johnny-five)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
+- [Legalize](https://github.com/paypal/legalize.js)
 - [Lodash](https://github.com/lodash/lodash)
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Minimist](https://github.com/substack/minimist)
