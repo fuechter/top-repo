@@ -60,6 +60,7 @@ My favorite repositories
 
 ## Test
 
+- [Ava](https://github.com/sindresorhus/ava)
 - [Mocha](https://github.com/mochajs/mocha)
 - [Recorder](https://github.com/theintern/recorder)
 - [Zombie](https://github.com/assaf/zombie)
@@ -77,6 +78,7 @@ My favorite repositories
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
 - [Clipboard](https://github.com/zenorocha/clipboard.js)
 - [CodeMirror](https://github.com/codemirror/codemirror)
+- [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Gulp](https://github.com/gulpjs/gulp)
