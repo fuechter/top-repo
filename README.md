@@ -79,6 +79,7 @@ My favorite repositories
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
 - [Clipboard](https://github.com/zenorocha/clipboard.js)
 - [CodeMirror](https://github.com/codemirror/codemirror)
+- [CSSCO](https://github.com/we-are-next/cssco/)
 - [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
