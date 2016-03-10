@@ -22,15 +22,25 @@ My favorite repositories
 - [Terraform](https://github.com/hashicorp/terraform)
 - [Vagrant](https://github.com/mitchellh/vagrant)
 
-## Frameworks (Node/IO)
+## Frameworks/Library (JavaScript)
+- [Legalize](https://github.com/paypal/legalize.js)
+- [Lodash](https://github.com/lodash/lodash)
+- [React](https://github.com/facebook/react)
+
+## Frameworks/Library (Node/IO)
+- [Babel](https://github.com/babel/babel)
 - [Express](https://github.com/strongloop/express)
+- [Gulp](https://github.com/gulpjs/gulp)
 - [Koa](https://github.com/koajs/koa)
+- [Minimist](https://github.com/substack/minimist)
+- [Webpack](https://github.com/webpack/webpack)
 
 ## Frameworks (PHP)
 - [Slim](https://github.com/slimphp/Slim)
 
 ## Frameworks (React)
 - [React Motion](https://github.com/chenglou/react-motion)
+- [Reflux](https://github.com/spoike/refluxjs)
 
 ## Mobile (Android)
 
@@ -77,7 +87,6 @@ My favorite repositories
 
 ## Others
 
-- [Babel](https://github.com/babel/babel)
 - [Big List Of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [Chome Extension](https://github.com/github-linker/chrome-extension)
 - [Clipboard](https://github.com/zenorocha/clipboard.js)
@@ -86,21 +95,15 @@ My favorite repositories
 - [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
-- [Gulp](https://github.com/gulpjs/gulp)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Infer](https://github.com/facebook/infer)
 - [JAWS](https://github.com/servant-app/JAWS)
 - [Johnny Five](https://github.com/rwaldron/johnny-five)
 - [Knwl.js](https://github.com/loadfive/Knwl.js)
-- [Legalize](https://github.com/paypal/legalize.js)
-- [Lodash](https://github.com/lodash/lodash)
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
-- [Minimist](https://github.com/substack/minimist)
 - [Mirror](https://github.com/kostiakoval/Mirror)
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
 - [User Flows](https://github.com/abynim/UserFlows)
-- [React](https://github.com/facebook/react)
-- [Reflux](https://github.com/spoike/refluxjs)
 - [Rove](https://github.com/aderyabin/rove)
 - [ShellJS](https://github.com/arturadib/shelljs)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
@@ -110,5 +113,5 @@ My favorite repositories
 - [Vantage](https://github.com/dthree/vantage)
 - [Verb](https://github.com/verbose/verb)
 - [Vibrant.JS](https://github.com/jariz/vibrant.js)
-- [Webpack](https://github.com/webpack/webpack)
+
 
