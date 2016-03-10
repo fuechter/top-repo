@@ -29,6 +29,9 @@ My favorite repositories
 ## Frameworks (PHP)
 - [Slim](https://github.com/slimphp/Slim)
 
+## Frameworks (React)
+- [React Motion](https://github.com/chenglou/react-motion)
+
 ## Mobile (Android)
 
 - [Deep Link Dispatch](https://github.com/airbnb/DeepLinkDispatch)
