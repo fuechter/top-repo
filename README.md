@@ -95,6 +95,7 @@ My favorite repositories
 - [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
+- [Hotel](https://github.com/typicode/hotel)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 - [Infer](https://github.com/facebook/infer)
 - [JAWS](https://github.com/servant-app/JAWS)
