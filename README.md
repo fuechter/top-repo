@@ -23,7 +23,7 @@ My favorite repositories
 - [Vagrant](https://github.com/mitchellh/vagrant)
 
 ## Frameworks/Library (JavaScript)
-- [Debug](https://github.com/visionmedia/debug)d
+- [Debug](https://github.com/visionmedia/debug)
 - [Legalize](https://github.com/paypal/legalize.js)
 - [Lodash](https://github.com/lodash/lodash)
 - [React](https://github.com/facebook/react)
