@@ -42,6 +42,7 @@ My favorite repositories
 ## Frameworks (React)
 - [React Motion](https://github.com/chenglou/react-motion)
 - [Reflux](https://github.com/spoike/refluxjs)
+- [Why Did You Update](https://github.com/garbles/why-did-you-update)
 
 ## Mobile (Android)
 
