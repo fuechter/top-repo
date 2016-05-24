@@ -68,6 +68,7 @@ My favorite repositories
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+- [HEAD](https://github.com/joshbuchea/HEAD)
 - [iOS Top 1000](https://github.com/iamdaiyuan/ios_top_1000)
 - [JS Tips](https://github.com/loverajoel/jstips)
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
