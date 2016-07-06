@@ -23,6 +23,7 @@ My favorite repositories
 - [Vagrant](https://github.com/mitchellh/vagrant)
 
 ## Frameworks/Library (JavaScript)
+- [Crosstab](https://github.com/tejacques/crosstab)
 - [Debug](https://github.com/visionmedia/debug)
 - [Legalize](https://github.com/paypal/legalize.js)
 - [Lodash](https://github.com/lodash/lodash)
