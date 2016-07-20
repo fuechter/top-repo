@@ -108,6 +108,7 @@ My favorite repositories
 - [Log Symbols](https://github.com/sindresorhus/log-symbols)
 - [Mirror](https://github.com/kostiakoval/Mirror)
 - [Parallaxify](https://github.com/hwthorn/parallaxify)
+- [Pre-commit](https://github.com/observing/pre-commit)
 - [User Flows](https://github.com/abynim/UserFlows)
 - [Rove](https://github.com/aderyabin/rove)
 - [ShellJS](https://github.com/arturadib/shelljs)
