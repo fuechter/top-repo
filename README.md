@@ -98,6 +98,7 @@ My favorite repositories
 - [CSSCO](https://github.com/we-are-next/cssco/)
 - [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
+- [Fira Code](https://github.com/tonsky/FiraCode)
 - [For the badge](https://github.com/BraveUX/for-the-badge)
 - [Hotel](https://github.com/typicode/hotel)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
