@@ -116,6 +116,7 @@ My favorite repositories
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
 - [Sortable](https://github.com/RubaXa/Sortable)
 - [ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed)
+- [Trash CLI](https://github.com/sindresorhus/trash-cli)
 - [Trianglify](https://github.com/qrohlf/trianglify)
 - [Vantage](https://github.com/dthree/vantage)
 - [Verb](https://github.com/verbose/verb)
