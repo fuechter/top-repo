@@ -96,6 +96,7 @@ My favorite repositories
 - [Clipboard](https://github.com/zenorocha/clipboard.js)
 - [CodeMirror](https://github.com/codemirror/codemirror)
 - [CSSCO](https://github.com/we-are-next/cssco/)
+- [dat.GUI](https://github.com/dataarts/dat.gui)
 - [DocumentJS](https://github.com/bitovi/documentjs)
 - [Dynamic.JS](https://github.com/michaelvillar/dynamics.js)
 - [Fira Code](https://github.com/tonsky/FiraCode)
