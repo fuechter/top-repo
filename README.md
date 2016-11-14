@@ -41,6 +41,7 @@ My favorite repositories
 - [Slim](https://github.com/slimphp/Slim)
 
 ## Frameworks (React)
+- [Blueprint](https://github.com/palantir/blueprint)
 - [React Motion](https://github.com/chenglou/react-motion)
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Why Did You Update](https://github.com/garbles/why-did-you-update)
