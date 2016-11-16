@@ -31,6 +31,7 @@ My favorite repositories
 
 ## Frameworks/Library (Node/IO)
 - [Babel](https://github.com/babel/babel)
+- [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
 - [Express](https://github.com/strongloop/express)
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Koa](https://github.com/koajs/koa)
