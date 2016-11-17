@@ -36,6 +36,7 @@ My favorite repositories
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Koa](https://github.com/koajs/koa)
 - [Minimist](https://github.com/substack/minimist)
+- [Next.js](https://github.com/zeit/next.js)
 - [Webpack](https://github.com/webpack/webpack)
 
 ## Frameworks (PHP)
