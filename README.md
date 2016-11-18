@@ -89,6 +89,7 @@ My favorite repositories
 ## Tools
 
 - [Atom](https://github.com/atom/atom)
+- [Atom Git Plus](https://github.com/akonwi/git-plus)
 - [Atom Git Projects](https://github.com/prrrnd/atom-git-projects)
 - [Loupe](http://latentflip.com/loupe/)
 
