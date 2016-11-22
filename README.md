@@ -44,6 +44,7 @@ My favorite repositories
 
 ## Frameworks (React)
 - [Blueprint](https://github.com/palantir/blueprint)
+- [Megadraft](https://github.com/globocom/megadraft)
 - [React Motion](https://github.com/chenglou/react-motion)
 - [Reflux](https://github.com/spoike/refluxjs)
 - [Why Did You Update](https://github.com/garbles/why-did-you-update)
