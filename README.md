@@ -80,6 +80,10 @@ My favorite repositories
 - [learn-tdd](https://github.com/nelsonic/learn-tdd)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
 
+## Studies
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## Test
 
 - [Ava](https://github.com/sindresorhus/ava)
