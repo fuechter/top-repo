@@ -43,6 +43,7 @@ My favorite repositories
 - [Slim](https://github.com/slimphp/Slim)
 
 ## Frameworks (React)
+- [Ant Design](https://github.com/ant-design/ant-design)
 - [Blueprint](https://github.com/palantir/blueprint)
 - [Megadraft](https://github.com/globocom/megadraft)
 - [React Motion](https://github.com/chenglou/react-motion)
