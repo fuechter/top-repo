@@ -60,6 +60,10 @@ My favorite repositories
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 - [React Native](https://github.com/facebook/react-native)
 
+## Projects
+
+- [React Tetris](https://github.com/chvin/react-tetris)
+
 ## Prototypes
 
 - [JSON Server](https://github.com/typicode/json-server)
