@@ -77,6 +77,7 @@ My favorite repositories
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [CSS Reference](https://github.com/jgthms/css-reference)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
