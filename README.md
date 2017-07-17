@@ -75,6 +75,7 @@ My favorite repositories
 - [Awesome Android](https://github.com/snowdream/awesome-android)
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
